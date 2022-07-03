@@ -1,4 +1,4 @@
-#Sun Jul 03 11:53:10 IST 2022
+#Sun Jul 03 12:02:24 IST 2022
 base.0=/Users/prabhneetnarula/Development/Projects/VS Code /App Dev/MyShop/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
